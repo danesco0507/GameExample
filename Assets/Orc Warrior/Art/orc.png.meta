@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: 8a72ffba25c088349984b59bd2159399
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: orc _L_arm
+    21300002: orc_head
+    21300004: orc _R_arm
+    21300006: orc_weapon
+    21300008: orc_L_hand
+    21300010: orc_body
+    21300012: orc _R_hand
+    21300014: orc_pants
+    21300016: orc _L_leg
+    21300018: orc _R_leg
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: orc _L_arm
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 563
+        width: 120
+        height: 162
+      alignment: 9
+      pivot: {x: 0.68840927, y: 0.81830096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.609116, y: 29.435242}
+        - {x: -82.609116, y: 14.435242}
+        - {x: -82.609116, y: -132.56476}
+        - {x: -5.6091156, y: -132.56476}
+        - {x: 37.390884, y: -92.56476}
+        - {x: 37.390884, y: 29.435242}
+    - name: orc_head
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 678
+        width: 243
+        height: 181
+      alignment: 9
+      pivot: {x: 0.48618796, y: 0.19404088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97.85632, y: 144.8786}
+        - {x: 96.85632, y: 145.8786}
+        - {x: -7.1436768, y: 145.8786}
+        - {x: -102.14368, y: 126.8786}
+        - {x: -118.14368, y: 117.8786}
+        - {x: -118.14368, y: 89.8786}
+        - {x: -101.14368, y: 49.8786}
+        - {x: -59.143677, y: -3.121399}
+        - {x: -2.1436768, y: -35.1214}
+        - {x: 85.85632, y: -35.1214}
+        - {x: 124.85632, y: -10.121399}
+        - {x: 124.85632, y: 32.8786}
+        - {x: 109.85632, y: 70.8786}
+    - name: orc _R_arm
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 572
+        width: 144
+        height: 144
+      alignment: 9
+      pivot: {x: 0.21903102, y: 0.8085149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.540466, y: 27.573853}
+        - {x: -31.540466, y: 23.573853}
+        - {x: -31.540466, y: -59.426147}
+        - {x: 0.4595337, y: -116.42615}
+        - {x: 107.45953, y: -116.42615}
+        - {x: 112.45953, y: -97.42615}
+        - {x: 112.45953, y: -34.426147}
+        - {x: 68.45953, y: 27.573853}
+    - name: orc_weapon
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 560
+        width: 193
+        height: 186
+      alignment: 9
+      pivot: {x: 0.19993441, y: 0.30806643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 154.41266, y: 107.699646}
+        - {x: 44.41266, y: 128.69965}
+        - {x: 24.412659, y: 128.69965}
+        - {x: -20.587341, y: 106.699646}
+        - {x: -38.58734, y: 3.699646}
+        - {x: -38.58734, y: -56.300354}
+        - {x: -30.587341, y: -57.300354}
+        - {x: -8.587341, y: -57.300354}
+        - {x: 72.41266, y: -31.300354}
+        - {x: 143.41266, y: 12.699646}
+        - {x: 154.41266, y: 66.699646}
+    - name: orc_L_hand
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 465
+        width: 82
+        height: 77
+      alignment: 9
+      pivot: {x: 0.263753, y: 0.76735145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.627747, y: 17.91394}
+        - {x: -21.627747, y: -59.08606}
+        - {x: 38.372253, y: -59.08606}
+        - {x: 60.372253, y: -50.08606}
+        - {x: 60.372253, y: 6.9139404}
+        - {x: 53.372253, y: 17.91394}
+    - name: orc_body
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 420
+        width: 179
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69.5, y: 92.5}
+        - {x: 43.5, y: 110.5}
+        - {x: 24.5, y: 114.5}
+        - {x: -32.5, y: 114.5}
+        - {x: -42.5, y: 109.5}
+        - {x: -82.5, y: 65.5}
+        - {x: -89.5, y: 31.5}
+        - {x: -89.5, y: -46.5}
+        - {x: -53.5, y: -114.5}
+        - {x: 36.5, y: -114.5}
+        - {x: 67.5, y: -95.5}
+        - {x: 89.5, y: -36.5}
+        - {x: 89.5, y: 39.5}
+    - name: orc _R_hand
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 454
+        width: 65
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 41.5}
+        - {x: -3.5, y: 41.5}
+        - {x: -32.5, y: -0.5}
+        - {x: -32.5, y: -39.5}
+        - {x: -26.5, y: -41.5}
+        - {x: 24.5, y: -41.5}
+        - {x: 32.5, y: -13.5}
+        - {x: 32.5, y: 26.5}
+        - {x: 20.5, y: 40.5}
+    - name: orc_pants
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 366
+        width: 122
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: 22}
+        - {x: -61, y: 18}
+        - {x: -61, y: -25}
+        - {x: 57, y: -25}
+        - {x: 61, y: -11}
+        - {x: 61, y: 25}
+        - {x: -55, y: 25}
+    - name: orc _L_leg
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 270
+        width: 76
+        height: 79
+      alignment: 9
+      pivot: {x: 0.37874684, y: 0.92172897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.21524, y: 6.1834106}
+        - {x: -21.78476, y: 6.1834106}
+        - {x: -28.78476, y: 2.1834106}
+        - {x: -28.78476, y: -69.81659}
+        - {x: -18.78476, y: -72.81659}
+        - {x: 47.21524, y: -72.81659}
+        - {x: 47.21524, y: -38.81659}
+        - {x: 34.21524, y: 2.1834106}
+    - name: orc _R_leg
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 277
+        width: 67
+        height: 70
+      alignment: 9
+      pivot: {x: 0.36340058, y: 0.92441666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.34784, y: 5.2908325}
+        - {x: -24.34784, y: -1.7091675}
+        - {x: -24.34784, y: -60.709167}
+        - {x: -20.34784, y: -64.70917}
+        - {x: 42.65216, y: -64.70917}
+        - {x: 42.65216, y: -32.709167}
+        - {x: 22.65216, y: 5.2908325}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
